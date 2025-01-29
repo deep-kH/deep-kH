@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak H</h1>
 
 <div align="center">
-<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep-kH&theme=dark&hide_border=false" alt="GitHub Streaks"/>
+<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep-kH" alt="GitHub Streaks"/>
 </div>
 <br>
 <div align="center">
